@@ -1,0 +1,12 @@
+prvo pokrenuti "server_start.bat" pa tek onda "Planer Projekata app"
+
+Korisnicka imena i lozinke:
+nalog		korisnicko ime		lozinka
+administrator	admin			admin
+korisnik	JankoJankovic		11111
+korisnik	MarkoMarkovic		11111
+korisnik	MilanMarkovic		11111
+korisnik	MiroslavMandic		11111
+korisnik	NikolaNikolic		11111
+korisnik	SlavkoSladojevic	11111
+korisnik	SlobodanTepsic		11111

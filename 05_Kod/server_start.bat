@@ -1,0 +1,1 @@
+java -jar ProjecrPlanerServer\dist\ProjecrPlanerServer.jar
